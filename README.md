@@ -39,13 +39,15 @@
 <br/>
 
 **:point_right::point_left: &nbsp;Interests:**
-<div>
-  <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif" height="10%">
-</div>
-<div>
-  <img src="https://media.giphy.com/media/RQ2TvSVgqyKKmKJSXn/giphy.gif" height="50%">
+<div align="center">
+  <div>
+    <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif"  height="500">
+  </div>
+  <div>
+    <img src="https://media.giphy.com/media/RQ2TvSVgqyKKmKJSXn/giphy.gif">
+  </div>
 </div>
 <br/>
 
-**:satisfied:&nbsp;Thanks for coming:**
+**:satisfied:&nbsp;Thanks for coming**
 
