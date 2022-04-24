@@ -41,7 +41,7 @@
 **:point_right::point_left: &nbsp;Interests:**
 <div align="center">
   <div>
-    <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif"  height="500">
+    <img src="https://media.giphy.com/media/uxebmaHfjsuCA/giphy.gif">
   </div>
   <div>
     <img src="https://media.giphy.com/media/RQ2TvSVgqyKKmKJSXn/giphy.gif">
