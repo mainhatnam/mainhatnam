@@ -50,4 +50,4 @@
 <br/>
 
 **:satisfied:&nbsp;Thanks for coming**
-<p align="center"><img src="https://komarev.com/ghpvc/?username=mainhatnam&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mainhatnam&style=flat-square&color=blueviolet" alt="profile view"></p>
