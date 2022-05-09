@@ -1,4 +1,5 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.facebook.com/Nam.MaiNhatNam/">
   <img align="left" alt="Facebook" width="40" height="40" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />
 </a>
