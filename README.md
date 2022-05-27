@@ -5,6 +5,9 @@
 <a href="https://www.instagram.com/namsuxi/">
   <img align="left" alt="instagram" width="40" height="40" src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" />
 </a>
+<a href="https://www.linkedin.com/in/mainhatnam/">
+  <img align="left" alt="linkedin" width="40" height="40" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
+</a>
 <br/>
 <br/>
   
