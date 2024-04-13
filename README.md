@@ -1,12 +1,12 @@
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+### Hi there<img src="./img/icon/hi.gif" width="25">
 <a href="https://www.facebook.com/NhatNam265/">
-  <img align="left" alt="Facebook" width="40" height="40" src="https://media.giphy.com/media/Q5i0sbSNRKdDMs4L4p/giphy.gif" />
+  <img align="left" alt="Facebook" width="40" height="40" src="./img/icon/fb.gif" />
 </a>
 <a href="https://www.instagram.com/namsuxi/">
-  <img align="left" alt="instagram" width="40" height="40" src="https://media.giphy.com/media/QZOxRp5tZTemNQzpgc/giphy.gif" />
+  <img align="left" alt="instagram" width="40" height="40" src="./img/icon/ins.gif" />
 </a>
 <a href="https://www.linkedin.com/in/mainhatnam/">
-  <img align="left" alt="linkedin" width="40" height="40" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" />
+  <img align="left" alt="linkedin" width="40" height="40" src="./img/icon/link.gif" />
 </a>
 <br/>
 <br/>
@@ -20,10 +20,11 @@
 
 **🛠 &nbsp;Tools:**
 
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="40" height="40"/>&nbsp;</code>
- <code><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;</code>
- <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;</code>
- <code><img src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/xampp.svg" title="Xampp"  alt="Xampp" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/visualstudio-plain.svg" title="visual studio" alt="visual studio" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/laragon.png" title="laragon"  alt="laragon" width="" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/ospanel.png" title="OSpanel"  alt="OSpanel" width="" height="40"/>&nbsp;</code>
 <br/>
 
 **:computer:&nbsp;Languages and Library and Framework:**  
@@ -44,6 +45,8 @@
 <div>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;</code>
  <code><img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="microsoftsqlserver" alt="microsoftsqlserver" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/mongodb-original-wordmark.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp;</code>
+ <code><img src="./img/icon/redis-original-wordmark.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp;</code>
 </div>
 <br/>
 
